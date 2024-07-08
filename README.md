@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Naledindhlovu
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning new programming Languages
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning new programming languages 
 - 📫 You can reach out @ naledindhlovu45@gmail.com
