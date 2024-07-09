@@ -9,7 +9,7 @@
 👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>🤝I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>📫 you can reach me at naledindhlovu45@gmail.com<br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
 
 #picture
-<img src="https://github.com/Naledindhlovu/Naledindhlovu/assets/135599769/7bcf6d05-7cca-4569-a640-4219527bb6c8" alt="bryan-rodriguez-belchibia-1-rightspeed" width="300"/>
+<img src="https://github.com/Naledindhlovu/Naledindhlovu/assets/135599769/7bcf6d05-7cca-4569-a640-4219527bb6c8" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="300"/>
 
 
 
