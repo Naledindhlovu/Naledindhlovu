@@ -8,7 +8,7 @@
 [![MasterHead](https://1/bp/blogspot.com/-7AAWynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>🤝I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>📫 you can reach me at naledindhlovu45@gmail.com<br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/euPj3JbcmxoeNBvR8;" />
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/euPj3JbcmxoeNBvR8" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https:/www.facebook.com/naledi.mabaso.3720) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naledi-ndhlovu-991472208/					 							 					) 
@@ -27,7 +27,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Naledindhlovu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lisbeth34&icon=2&color=1)](https://visitcount.itsvg.in)
