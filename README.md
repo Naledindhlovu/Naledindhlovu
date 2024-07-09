@@ -1,3 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
 # 💫 About Me:
 [![MasterHead](https://1/bp/blogspot.com/-7AAWynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>🤝I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
