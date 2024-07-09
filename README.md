@@ -1,7 +1,7 @@
 # 💫 About Me:
 👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>🤝I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
 
-<img align=”right” alt=”Coding” width=”400” src=” https://images.app.goo.gl/vJ7USx5AybFqQJm89”
+<img align=”right” alt=”Coding” width=”400” src=” https://images.app.goo.gl/vJ7USx5AybFqQJm89”>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https:/www.facebook.com/naledi.mabaso.3720) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naledi-ndhlovu-991472208/					 							 					) 
