@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on creating a website for a Salon<br>I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>Fun fact: when I'm not coding, you will find me practicing new dance moves
+👀I'm currently working on creating a website for a Salon<br>I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>Fun fact: when I'm not coding, you will find me practicing new dance moves
 
 
 ## 🌐 Socials:
