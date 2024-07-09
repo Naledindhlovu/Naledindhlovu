@@ -1,5 +1,5 @@
-[![MasterHead](https://1/bp/blogspot.com/-7AAWynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 # 💫 About Me:
+[![MasterHead](https://1/bp/blogspot.com/-7AAWynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>🤝I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
 
 <img align=”right” alt=”Coding” width=”400” src=” https://images.app.goo.gl/vJ7USx5AybFqQJm89”>
