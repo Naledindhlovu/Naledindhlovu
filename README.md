@@ -27,7 +27,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Naledindhlovu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lisbeth34&icon=2&color=1)](https://visitcount.itsvg.in)
