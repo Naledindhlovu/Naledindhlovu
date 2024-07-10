@@ -6,7 +6,7 @@
 <img src="https://github.com/Naledindhlovu/Naledindhlovu/assets/135599769/7bcf6d05-7cca-4569-a640-4219527bb6c8" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
 # 💫 About Me:
 
-👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenge me and allow me to grow as a developer<br>🤝I'm looking for help with Optimizing code for better performance<br>🌱currently, I'm diving deep in python <br>📫 you can reach me at naledindhlovu45@gmail.com<br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
+👀I'm currently working on creating a website for a Salon<br>🧑🏽‍🤝‍🧑🏻I'm looking to collaborate on projects that challenges me and allows me to grow as a developer<br>🌱currently, I'm diving deep in python <br>📫 you can reach me at naledindhlovu45@gmail.com<br>⚡Fun fact: when I'm not coding, you will find me practicing new dance moves
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https:/www.facebook.com/naledi.mabaso.3720) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naledi-ndhlovu-991472208/					 							 					) 
