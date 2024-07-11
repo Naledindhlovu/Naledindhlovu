@@ -1,7 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Color=red&Center=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naledi+Ndhlovu!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naledi+Ndhlovu!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
 
 <img src="https://github.com/Naledindhlovu/Naledindhlovu/assets/135599769/7bcf6d05-7cca-4569-a640-4219527bb6c8" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
